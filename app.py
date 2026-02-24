@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-data = pd.read_csv("/Users/pranalinagathan/Documents/1.kcNlp/Lec10/chatbot/chatbot.csv")
+data = pd.read_csv("chatbot.csv")
 
 app = Flask(__name__)
 
