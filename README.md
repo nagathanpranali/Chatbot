@@ -3,6 +3,7 @@ AI Personal Chatbot (Portfolio Assistant)
 A web-based chatbot that answers user queries about my profile, experience, skills, and projects using Natural Language Processing (NLP) techniques. 
 
 Check out the live website https://chatbot-app-1-w6ej.onrender.com/
+
 Begin the conversation by typing “Hi” or “Hello” to activate the chatbot.
 
 
